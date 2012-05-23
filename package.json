@@ -1,0 +1,17 @@
+{
+  "author": "Roman Shtylman <shtylman@gmail.com>",
+  "name": "book-git",
+  "description": "git middleware for book logging framework",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shtylman/node-book-git.git"
+  },
+  "main": "./index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
