@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/shtylman/node-book-git.png)](http://travis-ci.org/shtylman/node-book-git)
 book-git is a git version middleware for the [book](https://github.com/shtylman/node-book) logging framework. It will add a commit field with the sha hash of your projects git repository.
 
 ## installation ##
